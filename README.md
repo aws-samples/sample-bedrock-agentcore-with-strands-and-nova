@@ -123,9 +123,3 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 ## License
 
 This library is licensed under the MIT-0 License. See the [LICENSE](LICENSE) file.
-
-## Contributors
-
-<a href="https://github.com/aws-samples/sample-bedrock-agentcore-with-strands-and-nova/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=aws-samples/sample-bedrock-agentcore-with-strands-and-nova" />
-</a>
