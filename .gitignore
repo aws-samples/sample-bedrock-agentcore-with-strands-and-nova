@@ -1,0 +1,19 @@
+.env
+.venv/
+
+.DS_Store
+**/.DS_Store
+
+# AgentCore generated files
+**/.agentcore.json
+**/.bedrock_agentcore.yaml
+**/.dockerignore
+**/Dockerfile
+
+# Workshop generated files
+04-bedrock-agentcore-runtime-mcp/mcp_server.py
+04-bedrock-agentcore-runtime-mcp/requirements.txt
+05-bedrock-agentcore-runtime-strands/strands_agent.py
+05-bedrock-agentcore-runtime-strands/requirements.txt
+
+workshop.zip
