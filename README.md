@@ -24,9 +24,9 @@ Before starting the workshop, ensure you have:
 - **AWS Account** with appropriate permissions for Bedrock AgentCore and related services
   - `BedrockAgentCoreFullAccess` managed policy
   - `AmazonBedrockFullAccess` managed policy
-  - `CloudWatchFullAccess` managed policy 
+  - `CloudWatchFullAccessV2` managed policy 
   - `Caller permissions`: See detailed policy [here](https://github.com/aws/bedrock-agentcore-starter-toolkit/blob/main/documentation/docs/user-guide/runtime/permissions.md#developercaller-permissions)
-- [Amazon Nova Pro Model Access](https://docs.aws.amazon.com/nova/latest/userguide/getting-started-console.html) request in Bedrock
+- ~~[Amazon Nova Pro Model Access](https://docs.aws.amazon.com/nova/latest/userguide/getting-started-console.html) request in Bedrock~~
 - [Enable CloudWatch Transaction Search](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/observability-configure.html#observability-configure-builtin) for AgentCore Observability
 - **AWS Credentials** configured (IAM role or environment variables) 
 - **Python Environment** with required packages (listed in `pyproject.toml` and instructions in each notebook)
