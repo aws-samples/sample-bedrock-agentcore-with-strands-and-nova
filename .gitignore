@@ -15,5 +15,6 @@
 04-bedrock-agentcore-runtime-mcp/requirements.txt
 05-bedrock-agentcore-runtime-strands/strands_agent.py
 05-bedrock-agentcore-runtime-strands/requirements.txt
+08-bedrock-agentcore-gateway-and-policy
 
 workshop.zip
